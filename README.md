@@ -10,11 +10,11 @@ A Chrome Extension that helps developers analyze and detect security vulnerabili
 -  API integration for real-time analysis
 -  Lightweight & easy to use
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **JavaScript**: For scanning & Chrome API Integration
 - **Chrome Extension APIs**
 
-## 🚀 How to Install (Load Unpacked Extension)
+## How to Install (Load Unpacked Extension)
 1. **Clone or Download the Repository:**
    ```bash
    git clone https://github.com/PYRAG-PRotect/Extension.git
@@ -33,7 +33,7 @@ A Chrome Extension that helps developers analyze and detect security vulnerabili
 
 5. Done! The extension is now installed and ready to use!
 
-## 🔍 How It Works
+## How It Works
 - Open a GitHub Pull Request (PR) page
 - The extension will scan for security vulnerabilities in the PR
 - It categorizes issues as Safe (100%) or Vulnerable Code (10-90%) based on the security assessment.
